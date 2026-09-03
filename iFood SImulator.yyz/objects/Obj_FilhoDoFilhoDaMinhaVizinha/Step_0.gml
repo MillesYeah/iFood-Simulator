@@ -1,0 +1,5 @@
+if global.ESSE_POVO_QUE_IMPINA_MOTOCYCLES_VAI_VIRAR_CIGARRO_E_CIGARRO_DA_CUANCER_E_VOCE_PODE_MORRER==true{
+image_blend=c_dkgray
+}else{
+event_inherited()
+}

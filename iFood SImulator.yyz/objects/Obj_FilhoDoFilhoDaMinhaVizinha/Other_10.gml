@@ -1,0 +1,3 @@
+global.ESSE_POVO_QUE_IMPINA_MOTOCYCLES_VAI_VIRAR_CIGARRO_E_CIGARRO_DA_CUANCER_E_VOCE_PODE_MORRER=true
+Obj_entrega_dor.sprite_index=moto
+Obj_entrega_dor.velocidade_movimento=global.vel_cimagrade+40

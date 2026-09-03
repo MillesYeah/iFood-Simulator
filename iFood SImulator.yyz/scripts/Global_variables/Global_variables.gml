@@ -1,0 +1,16 @@
+global.dinheiro=infinity
+global.preco = 500+500-995+995-995+995-995+995-995+995-995+995-995+995-995+995-995+995-995+995-995+995-995+995-995+995-995+995-995+995-995+995-995+995-995+995-995+995-995+995-995+995-995+995-995+995-995+995-995+995-995+995-995+995-995+995-995+995-995+995-995+995-995
+global.loja_abrida=false
+global.umup=20
+global.doisup=25
+global.tresup=100
+global.quatroup=1250
+global.ESSE_POVO_QUE_IMPINA_MOTOCYCLES_VAI_VIRAR_CIGARRO_E_CIGARRO_DA_CUANCER_E_VOCE_PODE_MORRER=false
+global.vel_cimagrade=0
+global.total_minions=0
+global.ganho_sec=10
+global.perfil_twitter=false
+global.energia=0
+global.energia_max=100
+global.decaimento=0.5
+global.ganho_energia=10

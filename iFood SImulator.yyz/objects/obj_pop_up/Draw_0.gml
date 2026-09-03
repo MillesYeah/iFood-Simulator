@@ -1,0 +1,5 @@
+draw_self()
+draw_set_colour(c_white)
+draw_set_font(AAAAAAAAAARRRRRRIAAAALALLLALALALALLALALLALALLALALLALALLALALALA)
+draw_text_transformed(x+120,y+210,global.dinheiro,2,2,0)
+draw_text_transformed(x+150,y+270,global.ganho_sec,2,2,0)
